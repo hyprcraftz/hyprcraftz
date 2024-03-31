@@ -5,40 +5,40 @@
 ¡Bienvenido al epicentro de la innovación digital! Donde desafiamos los límites de lo posible y creamos soluciones de software que impulsan el progreso y transforman realidades. Somos una fuerza imparable de creatividad y tecnología, dedicada a convertir tus ideas en experiencias digitales extraordinarias.
 </div>
 
-<br>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">
-        Tecnologías que usamos
-      </h2>
-    </summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+
+## Tecnologías y herramientas
+
 ### Lenguajes
-<br/>
+
+<p align="left"> 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,go,java,kotlin,dart,php" />
 </a>
+</p>
 
 ### Frameworks
 
+<p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=sass,tailwind,materialui,bootstrap,react,nextjs,express,nest,laravel,flutter" />
 </a>
+</p>
 
 ### Base de datos & Cloud
 
+<p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,github,nginx" />
 </a>
+</p>
 
 ### Software & Herramientas
 
+<p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,linux,arch,figma,vite,npm,vscode,vscodium,neovim,md,obsidian,postman" />
 </a>
+</p>
 
 <!-- ### Base de datos & Cloud
 <a href="https://skillicons.dev">
